@@ -10,3 +10,11 @@ Always struggling finding that one tab with your lichess match running on it bet
 - Fullscreen
 - Minimize
 - And everything else you know from lichess.org
+
+## Downloads
+
+Download your version here:
+
+[Windows (64bit)](https://github.com/Zenahr/lichess-desktop-app/releases/download/v1.0.0/Win64.zip)
+[Windows (32bit)](https://github.com/Zenahr/lichess-desktop-app/releases/download/v1.0.0/Win32.zip)
+[Windows (linux)](https://github.com/Zenahr/lichess-desktop-app/releases/download/v1.0.0/linux64.zip)
